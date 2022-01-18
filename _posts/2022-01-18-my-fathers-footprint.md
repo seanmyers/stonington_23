@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Father's Patience"
-date:   2022-01-17 14:03:45 -0500
+date:   2022-01-18 13:15:45 -0500
 categories: personal
 ---
 Last Wednesday morning (1/12/2022) my father William Myers passed away. I will miss him and always think of him.
