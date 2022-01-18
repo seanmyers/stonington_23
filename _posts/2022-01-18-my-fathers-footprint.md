@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "My Father's Patience"
-date:   2022-01-18 13:15:45 -0500
+date:   2022-01-18 18:15:45 -0500
 categories: personal
 ---
 Last Wednesday morning (1/12/2022) my father William Myers passed away. I will miss him and always think of him.
 
-Fifty-nine years ago today (1/18/1963), my father and my mother brought me into this world and raised me along with my four siblings. My mom told that the day I was born she had to spend more time than expected in the delivery room. Back in the 60's men were not permitted in the delivery room, so as other fathers were ushered in to meet their new sons and daughters, my father had to wait patiently in a nearby room for me to arrive. Perhaps this was the defining moment of our relationship because while growing up and beyond, my father was always lovingly patient with me.
+Fifty-nine years ago today (1/18/1963), my father and my mother brought me into this world and raised me along with my four siblings. My mom told me that the day I was born she had to spend more time than expected in the delivery room. Back in the 60's men were not permitted in the delivery room, so as other fathers were ushered in to meet their new sons and daughters, my father had to wait patiently in a nearby room for me to arrive. Perhaps this was the defining moment of our relationship because while growing up and beyond, my father was always lovingly patient with me.
 
-Growing up in a suburb of Rochester, NY I would often push the edge of the envelope through various acts of childhood recklessness and ill-conceived adventures. My father, when made aware of these incidences, did not immediately get angry and yell. Instead he would patiently explain why what I did lacked good judgement and with the requisite "grounding", we would move on.
+Coming to age in a suburb of Rochester, NY I would often push the edges of the envelope through various acts of childhood recklessness and ill-conceived adventures. My father, when made aware of these incidences, did not immediately get angry and yell. Instead he would patiently explain why what I did lacked good judgement and with the requisite "grounding", we would move on.
 
 When I changed my college major and needed to take five years to finish college and another several years of graduate school, he was patient with me and never questioned my choices. And even later in life, when I would change jobs or decide to start a business of my own, he would listen, be supportive, and respect my decisions.
 
