@@ -20,4 +20,4 @@ So at my Dad's passing I think a lot about our relationship and his affect on me
 
 Thank you Dad.
 
-P.S. In case you missed it, the Bills crushed the Patriots 47-17 in the Wild Card Playoff game on Saturday evening (1/15/22).
+P.S. In case you missed it Dad, the Bills crushed the Patriots 47-17 in the Wild Card Playoff game on Saturday evening (1/15/22).
