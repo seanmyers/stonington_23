@@ -33,9 +33,6 @@ plugins:
   - jekyll-feed
 disqus:
   shortname: stonington
-defaults:
-  - scope:
-      path: "assets/img"
 
 
 # Exclude from processing.
