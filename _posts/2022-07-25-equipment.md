@@ -3,7 +3,7 @@ layout: post
 title:  "Equipment"
 date:   2022-07-25
 categories: personal
-image: /assets/img/lantern-in-maine.jpg
+image: /assets/img/lantern.png
 ---
 So we are eight or so weeks away and I know some of you are already thinking about what equipment we need to bring so I thought I would provide some basic information.
 
