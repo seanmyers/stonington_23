@@ -36,6 +36,7 @@ The common things we need are:
 - lantern. Does anyone have a battery powered one?
 - a cooking pot. I have one
 - garbage bags
+- can opener
 - toilet paper and shovel
 - white gas (I can handle this)
 - beer/booze (we will buy some beers in Stonington but you can only carry so much beer)
