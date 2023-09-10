@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Equipment"
-date:   2022-07-25
+date:   2023-09-06
 categories: personal
 image: /assets/img/lantern.png
 ---
@@ -10,6 +10,8 @@ So we are eight or so weeks away and I know some of you are already thinking abo
 It will be later in the season so you should be prepared for highs in the 60's and lows in the 40s. That means bring several layers. You will want to bring two pairs of shoes - one for during the day and one for the evening. Your feet **will** get wet getting in and out of the kayak. I have a [pair of these](https://www.rei.com/product/164638/astral-brewer-20-water-shoes-mens?CAWELAID=120217890014430780&CAGPSPN=pla&CAAGID=104551579641&CATCI=pla-451643129702&cm_mmc=PLA_Google%7C21700000001700551_1646380020%7C92700053581104925%7CTOF%7C71700000066681446&gclsrc=ds&gclsrc=ds) but any old sneaker will do.
 
 We are renting 16' kayaks that should have two cavities for equipment one large one in the back and a smaller one up front. It is better to have several small packages to stuff in them as opposed to one or two large packages.
+
+This year we have a cabin so we won't need to bring stoves or
 
 Each person should be sure they have the following:
 - one 20 liter wet bag to hold your clothes
@@ -30,11 +32,10 @@ Each person should be sure they have the following:
 - you may be able to wear shorts but if not a pair of lightweight pants for kayaking during the day
 
 The common things we need are:
-- two tents. I have one 3 man (2 comfortably). We could use another one of these plus possibly a bivy sack for the 5th person
 - two 5 gallon water containers. I have one.
-- a stove. I have one.
-- lantern. Does anyone have a battery powered one?
-- a cooking pot. I have one
+- lanterns. they have a couple at the cabin bu maybe we consider bringing a spare
+- a cooking pot. I have one.
+- a frying pan. I have one.
 - garbage bags
 - can opener
 - toilet paper and shovel
@@ -45,6 +46,6 @@ The common things we need are:
 
 What am I missing?
 
-I laid out some of my stuff this weekend
+This is a picture from last year
 
 ![test]({{ "/assets/img/equipment.jpg" | absolute_url }})
