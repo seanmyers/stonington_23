@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Equipment"
-date:   2023-09-06
+date:   2023-09-10
 categories: personal
 image: /assets/img/lantern.png
 ---
@@ -11,7 +11,7 @@ It will be later in the season so you should be prepared for highs in the 60's a
 
 We are renting 16' kayaks that should have two cavities for equipment one large one in the back and a smaller one up front. It is better to have several small packages to stuff in them as opposed to one or two large packages.
 
-This year we have a cabin so we won't need to bring stoves or
+According to the email I got from the Maine Heritage Trust, here is what we can expect the [cabin]({% post_url 2023-09-10-cabin %}) to provide.
 
 Each person should be sure they have the following:
 - one 20 liter wet bag to hold your clothes
@@ -19,7 +19,7 @@ Each person should be sure they have the following:
 - one small bag (could be a baggie) to hold personal stuff
 - one sleeping bag
 - one sleeping pad
-- a dish and utensils for meals
+- a dish and utensils for meals (if you don't want to use what the cabin has)
 - a wool hat for night
 - a rain jacket
 - a baseball hat or something like that to keep the sun out
@@ -33,13 +33,10 @@ Each person should be sure they have the following:
 
 The common things we need are:
 - two 5 gallon water containers. I have one.
-- lanterns. they have a couple at the cabin bu maybe we consider bringing a spare
-- a cooking pot. I have one.
-- a frying pan. I have one.
+- lanterns. They have a couple at the cabin but maybe we consider bringing a spare
 - garbage bags
 - can opener
 - toilet paper and shovel
-- white gas (I can handle this)
 - beer/booze (we will buy some beers in Stonington but you can only carry so much beer)
 - first aid kit (I have a small one)
 - rope (I will grab some)
