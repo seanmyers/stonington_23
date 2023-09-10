@@ -11,7 +11,7 @@ It will be later in the season so you should be prepared for highs in the 60's a
 
 We are renting 16' kayaks that should have two cavities for equipment one large one in the back and a smaller one up front. It is better to have several small packages to stuff in them as opposed to one or two large packages.
 
-According to the email I got from the Maine Heritage Trust, here is what we can expect the [cabin](https://seanmyers.github.io/stonington_23/personal/2023/09/10/cabin.html) to provide.
+According to the email I got from the Maine Heritage Trust, here is what we can expect the [cabin]({% post_url 2023-09-10-cabin %) to provide.
 
 Each person should be sure they have the following:
 - one 20 liter wet bag to hold your clothes
