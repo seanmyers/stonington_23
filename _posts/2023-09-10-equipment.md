@@ -34,6 +34,7 @@ Each person should be sure they have the following:
 The common things we need are:
 - two 5 gallon water containers. I have one.
 - lanterns. They have a couple at the cabin but maybe we consider bringing a spare
+- matches
 - garbage bags
 - can opener
 - toilet paper and shovel
